@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Jrostaggs97 aka Jon Staggs. I'm an MS student at University of Washington's Applied Math dept. I graduated from UT Austin in 2020 with a BS in math and will be returning as a PhD student to the Oden Institute of Computational Science and Engineering. Hook 'em!
-- 👀 I’m interested in PDEs and nonlinear things. 
-- 🌱 I’m currently learning some High Performance Computing
-- 📫 How to reach me: jrstaggs@uw.edu
+- 👋 Hi, I’m @Jrostaggs97 aka Jon Staggs. I'm a PhD student at UT Austin in Computational Science, Engineering, and Math at the Oden Institute. I graduated from UT Austin with a BS in math and an MS in Computational and Applied Math from the University of Washington
+- 👀 My research is focused on using PDEs to model and understand the maintenance of highly diverse ecosystems, namely forests 🌱 
+- 📫 How to reach me: jon.staggs@utexas.edu
 
 <!---
 Jrostaggs97/Jrostaggs97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
